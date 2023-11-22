@@ -1,4 +1,3 @@
-//Tameem Ahmed
 //Shortest Path 
 #include <iostream>
 using namespace std;
